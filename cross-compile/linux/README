@@ -29,6 +29,7 @@ Requirements
  - autoconf
  - libtool
  - sdcc (needed for building the fx2lafw firmware)
+ - boost
 
 
 Building
